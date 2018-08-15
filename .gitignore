@@ -1,0 +1,9 @@
+*.py~
+*.pyc
+*.pyc~
+*.swp
+**/__pycache__
+*.idea
+.env
+media
+static
